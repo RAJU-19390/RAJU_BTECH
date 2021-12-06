@@ -1,6 +1,7 @@
 cython==0.29.24
 pickle-mixin==1.0.2
 pickleshare==0.7.5
+Flask_Cors==3.0.8
 Flask==2.0.1
 Flask-PyMongo==2.3.0
 Flask-SQLAlchemy==2.5.1
